@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Java EE 7 - Angular - Sample Application #
 
 ## Blog posts ##
@@ -45,3 +46,7 @@
 * Install Grunt `npm install -g grunt-cli`  for more information please go to http://gruntjs.com/getting-started.
 
 * Run the command 'grunt' to download all the web dependencies and build an optimized version of the project.
+=======
+# Javaee_AngularJs
+# Java EE 7 - Angular - Sample Application creat in #
+>>>>>>> 3fa3b281a53447be86ad9d60af1735c370cd43a2

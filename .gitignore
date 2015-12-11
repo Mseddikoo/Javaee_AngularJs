@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by .gitignore support plugin (hsz.mobi)
 
 
@@ -75,3 +76,17 @@ node_modules
 src/main/webapp/lib/bower
 temp
 build
+=======
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+>>>>>>> 3fa3b281a53447be86ad9d60af1735c370cd43a2
